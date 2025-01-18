@@ -1,0 +1,82 @@
+                       Quantachrome NovaWin - Data Acquisition and Reduction
+                                        for NOVA instruments
+                                ©1994-2010, Quantachrome Instruments
+                                            version 11.0
+
+Analysis                                          Report
+Operator:nova                 Date:2024/04/03     Operator:nova                 Date:4/17/2024
+Sample ID:  Sample                 Filename:      C:\QCdata\Physisorb\20231120-1040_ZNC_Degas 300oC_3 jam _Riki S_1.qps
+Sample Desc:   ZNC_Degas 200oC_3JamComment:        
+Sample weight: 0.1416 g            Sample Volume: 0.04152 cc          Sample Density:3.41 g/cc
+Outgas Time:   3.0 hrs             OutgasTemp:    300.0 C
+Analysis gas:  Nitrogen            Bath Temp:     77.3 K
+Press. Tolerance:0.100/0.100 (ads/des)Equil time: 24/24 sec (ads/des) Equil timeout: 48/48 sec (ads/des)
+Analysis Time: 100.8 min           End of run:    2024/04/03 10:37:51 Instrument:    Nova Station A
+Cell ID:        97                                                    F/W version:   0.00
+Adsorbate      Nitrogen                 Temperature    77.350K
+               Molec. Wt.: 28.013  g    Cross Section: 16.200  Å²     Liquid Density: 0.808  g/cc
+
+                     Relative                                        Volume @ STP
+                     Pressure                                               
+                                                                         cc/g
+
+                        5.05000e-03                                       0.6208
+                        3.19160e-02                                       2.7541
+                        5.47180e-02                                       3.3200
+                        8.15250e-02                                       3.8775
+                        1.07771e-01                                       4.3806
+                        1.28772e-01                                       4.7761
+                        1.54211e-01                                       5.2279
+                        1.79700e-01                                       5.6842
+                        2.01753e-01                                       6.0792
+                        2.28935e-01                                       6.5625
+                        2.55498e-01                                       7.0396
+                        2.80584e-01                                       7.4965
+                        3.01448e-01                                       7.8830
+                        3.33457e-01                                       8.4816
+                        3.66179e-01                                       9.1047
+                        4.00768e-01                                       9.7784
+                        4.35853e-01                                      10.4587
+                        4.64613e-01                                      11.0179
+                        4.99094e-01                                      11.6946
+                        5.35642e-01                                      12.4167
+                        5.71808e-01                                      13.1414
+                        6.01577e-01                                      13.7532
+                        6.48650e-01                                      14.7258
+                        6.86517e-01                                      15.5653
+                        7.35673e-01                                      16.7177
+                        7.72314e-01                                      17.6558
+                        8.17299e-01                                      18.8901
+                        8.60129e-01                                      20.2260
+                        9.09062e-01                                      22.1814
+                        9.49428e-01                                      24.5021
+                        9.93800e-01                                      34.0726
+                        9.57648e-01                                      28.8820
+                        9.24126e-01                                      24.6552
+                        8.92881e-01                                      22.3454
+                        8.60720e-01                                      20.8163
+                        8.24266e-01                                      19.5808
+                        7.88323e-01                                      18.5437
+                        7.56458e-01                                      17.7001
+                        7.22489e-01                                      16.8861
+                        6.81647e-01                                      15.9579
+                        6.58247e-01                                      15.4528
+                        6.18284e-01                                      14.6125
+                        5.78436e-01                                      13.7983
+                        5.50274e-01                                      13.2311
+                        5.16615e-01                                      12.5592
+                        4.77113e-01                                      11.7652
+                        4.45738e-01                                      11.1380
+                        4.13354e-01                                      10.4871
+                        3.79464e-01                                       9.8077
+                        3.45236e-01                                       9.1173
+                        3.07924e-01                                       8.3892
+                        2.73300e-01                                       7.7288
+                        2.40974e-01                                       7.1077
+                        2.14360e-01                                       6.5988
+                        1.79491e-01                                       5.9318
+                        1.45940e-01                                       5.2875
+                        1.11035e-01                                       4.5975
+                        7.34560e-02                                       3.8139
+                        3.72610e-02                                       2.9734
+                        8.10500e-03                                       2.1437
